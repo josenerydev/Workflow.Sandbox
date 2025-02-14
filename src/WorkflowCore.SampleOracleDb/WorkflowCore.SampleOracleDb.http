@@ -1,0 +1,6 @@
+@WorkflowCore.SampleOracleDb_HostAddress = http://localhost:5156
+
+GET {{WorkflowCore.SampleOracleDb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
